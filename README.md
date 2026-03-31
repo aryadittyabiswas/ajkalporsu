@@ -28,6 +28,20 @@ Showcase marketing and creative services effectively
 Generate leads and attract potential clients
 Demonstrate modern web development and design capabilities
 
+This is a HTML,CSS & JS embedded in one HTML file. 
+
+🔧 Installation : 
+git clone https://github.com/your-username/ajkalporsu-marketing.git
+cd ajkalporsu-marketing
+open index.html
+
+🤝 Contribution : 
+Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
+
+📄 License
+This project is licensed under the MIT License.
+
+
 
 <img width="1898" height="948" alt="hfgh" src="https://github.com/user-attachments/assets/ecb7410b-bef0-46c2-8e82-847d29cdd155" />
 <img width="1864" height="954" alt="fghfghgh" src="https://github.com/user-attachments/assets/17b94018-acf7-4789-9df0-7591c767fd60" />
@@ -37,13 +51,4 @@ Demonstrate modern web development and design capabilities
 
 
 
-🔧 Installation : 
-git clone https://github.com/your-username/ajkalporsu-marketing.git
-cd ajkalporsu-marketing
-open index.html
-🤝 Contribution
 
-Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
-
-📄 License
-This project is licensed under the MIT License.
